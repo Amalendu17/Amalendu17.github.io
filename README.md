@@ -1,5 +1,3 @@
-#![Portfolio Image](/assets/images/portfolio.jpg)
-
 # Amalendu Das  
 **Geophysicist | Data Scientist**  
 📍 India | 📧 amalendu.prb@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/amalendu-das-366a70215)
