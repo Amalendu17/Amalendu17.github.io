@@ -1,3 +1,4 @@
+![Profile Image](/assets/images/portfolio.jpg)
 ## Data Scientist and Geophysicist
 
 ### Education
