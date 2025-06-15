@@ -1,4 +1,4 @@
-![Portfolio Image](/assets/images/portfolio.jpg)
+#![Portfolio Image](/assets/images/portfolio.jpg)
 
 # Amalendu Das  
 **Geophysicist | Data Scientist**  
