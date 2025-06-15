@@ -61,9 +61,10 @@ Python, MATLAB, Shell Script, NumPy, Pandas, Scikit-Learn, PyTorch, SciPy, Matpl
 
 **Seismic & Geo Tools:**  
 OMEGA, Seisan, OpendTect, GMT, Google Earth Pro  
-
+**Productivity & Office Tools:**  
+Microsoft Excel, Word, PowerPoint, Outlook
 **Core Areas:**  
-Seismic Interpretation, Fault Analysis, Reservoir Geophysics, Microseismic Monitoring, CCUS, Data Modeling  
+Data Science, Seismic Interpretation, Fault Analysis, Reservoir Geophysics, Microseismic Monitoring, CCUS, Data Modeling  
 
 **Other Skills:**  
 - Data Cleaning & Feature Engineering  
