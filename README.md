@@ -1,21 +1,92 @@
-![Profile Image](/assets/images/portfolio.jpg)
-## Data Scientist and Geophysicist
+![Portfolio Image](/assets/images/portfolio.jpg)
 
-### Education
-#### M.Sc. in Geophysics | Indian Institute of Technology (IIT) Kharagpur
+# Amalendu Das  
+**Geophysicist | Data Scientist**  
+📍 India | 📧 amalendu.prb@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/amalendu-das-366a70215)
 
-2022 – 2024 | CGPA: 8.29 / 10
+---
 
-Specialized in seismic data analysis, geophysical signal processing,well logs and machine learning applications.
+Welcome to my professional portfolio! I'm a trained Geophysicist and Data Scientist with hands-on experience in seismic data analysis, machine learning, and reservoir characterization. My academic and industry background bridges the gap between Earth science and AI, making me well-suited for cross-disciplinary roles in energy, environmental analytics, and computational geoscience.
 
-Master's thesis on Machine Learning-Based Seismic Fault Segmentation using deep learning (U-Net CNN)
+---
 
-### Work Experience
-Seismologist | Fervo Energy / BayOne Solutions | Mar 2025 – Present
+## 🎓 Education
 
-Applied deep learning techniques (PhaseNet) for seismic phase picking and machine learning-based focal mechanism estimation (SKHASH).
+**M.Sc. Geophysics**  
+*Indian Institute of Technology (IIT) Kharagpur* | 2022–2024 | CGPA: 8.29/10  
+- Focus: Seismic data processing, inverse theory, reservoir geophysics, and machine learning in geoscience  
+- Thesis: *Machine Learning-Based Seismic Fault Segmentation using 3D U-Net CNN*
 
-Interpreted and quality-controlled microseismic datasets, including phase detection and picking using both manual methods
-and automated tools and processed microseismic data.
+**B.Sc. Physics**  
+*Bankura Christian College, Bankura University* | 2018–2021 | CGPA: 9.02/10  
+- Strong foundation in mathematics, statistics, mechanics, and physical modelling
 
-Conducted hazard assessment using spatio-temporal data and fault orientation analysis.
+---
+
+## 💼 Experience
+
+**Seismologist** | Fervo Energy / BayOne Solutions | Mar 2025 – Present  
+- Applied machine learning models (PhaseNet, SKHASH) for seismic phase picking and focal mechanism estimation  
+- Performed hazard screening, seismic QC, and automated microseismic event detection  
+- Evaluated fault structures and stress regimes in geothermal reservoirs
+
+**Junior Research Fellow** | IIT Kharagpur | Jul 2024 – Feb 2025  
+- Receiver function analysis of crustal structure in the Chhattisgarh Basin  
+- Developed Python-based pipelines for seismic waveform analysis and signal deconvolution
+
+**Intern – Oil India Limited** | Duliajan, Assam | May 2023 – Jun 2023  
+- Hands-on exposure to 2D seismic acquisition and basic processing using OMEGA  
+- Studied reservoir geophysics, AVO analysis, and well log correlation
+
+---
+
+## 🔬 Projects
+
+### 🔹 [Seismic Fault Segmentation (Thesis)](https://github.com/Amalendu17)
+- Built a 3D shallow U-Net CNN for automatic fault segmentation using seismic data (F3 block, Netherlands)  
+- Improved fault detection accuracy using real and synthetic datasets  
+
+### 🔹 [Synthetic NMR Log Prediction](https://github.com/Amalendu17/Synthetic_NMR_Develop.git)
+- Modeled NMR parameters (Mean and SD of T2) using polynomial regression from conventional logs  
+- Applied the trained model to wells in the Gulf of Mexico
+
+### 🔹 [Reservoir Characterization with ML](https://github.com/Amalendu17/Reservoir_Characterization_ML.git)
+- Built ML models for lithology classification, porosity prediction, and production trend forecasting  
+- Used gamma ray, resistivity, and porosity logs to automate reservoir analysis
+
+---
+
+## 🛠️ Skills
+
+**Programming & Data Science:**  
+Python, MATLAB, Shell Script, NumPy, Pandas, Scikit-Learn, PyTorch, SciPy, Matplotlib, Seaborn, Power BI  
+
+**Seismic & Geo Tools:**  
+OMEGA, Seisan, OpendTect, GMT, Google Earth Pro  
+
+**Core Areas:**  
+Seismic Interpretation, Fault Analysis, Reservoir Geophysics, Microseismic Monitoring, CCUS, Data Modeling  
+
+**Other Skills:**  
+- Data Cleaning & Feature Engineering  
+- Geophysical Signal Processing  
+- Model Evaluation & Visualization  
+- Linux and Windows Environments
+
+---
+
+## 📚 Certifications
+
+- **Machine Learning with Python** – IBM  
+- **Python 101 for Data Science** – IBM  
+- **Oil & Gas Industry Operations & Markets** – Duke University
+
+---
+
+## 🧭 Interests
+
+Geophysics · Applied Machine Learning · Seismic Hazard · Reservoir Engineering · Subsurface Imaging · Scientific Computing
+
+---
+
+Thanks for visiting! Feel free to explore my GitHub repositories for more on how I blend **Earth science and data science** to solve complex subsurface problems.
