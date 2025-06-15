@@ -1,4 +1,4 @@
-# Data Scientist and Geophysicist
+## Data Scientist and Geophysicist
 
 ### Education
 #### M.Sc. in Geophysics | Indian Institute of Technology (IIT) Kharagpur
