@@ -1,10 +1,10 @@
 # Amalendu Das  
-**Geophysicist | Data Scientist**  
+**Geophysicist**  
 📍 India | 📧 amalendu.prb@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/amalendu-das-366a70215)
 
 ---
 
-Welcome to my professional portfolio! I'm a trained Geophysicist and Data Scientist with hands-on experience in seismic data analysis, machine learning, and reservoir characterization. My academic and industry background bridges the gap between Earth science and AI, making me well-suited for cross-disciplinary roles in energy, environmental analytics, and computational geoscience.
+Welcome to my professional portfolio! I'm a trained Geophysicist with hands-on experience in seismic data analysis, microseismic processing and monitoring, machine learning, and reservoir characterization. My academic and industry background bridges the gap between Earth science and AI, making me well-suited for cross-disciplinary roles in energy, environmental analytics, and computational geoscience.
 
 ---
 
@@ -60,7 +60,7 @@ Welcome to my professional portfolio! I'm a trained Geophysicist and Data Scient
 Python, MATLAB, Shell Script, NumPy, Pandas, Scikit-Learn, PyTorch, SciPy, Matplotlib, Seaborn, Power BI  
 
 **Seismic & Geo Tools:**  
-OMEGA, Seisan, OpendTect, GMT, Google Earth Pro  
+Divine, Seisan, OpendTect, GMT, Google Earth Pro  
 
 **Productivity & Office Tools:**  
 Microsoft Excel, Word, PowerPoint, Outlook
