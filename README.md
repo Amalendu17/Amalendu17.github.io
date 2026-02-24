@@ -1,5 +1,5 @@
 # Amalendu Das  
-**Geophysicist (Seismologist)**  
+**Geophysicist**  
 📍 Gurgaon, India | 📧 amalendu.prb@gmail.com | 📞 9382227580 | 🔗 [LinkedIn](https://linkedin.com/in/amalendu-das-366a70215) | 💻 [GitHub](https://github.com/amalendu17)
 
 ---
